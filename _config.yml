@@ -1,0 +1,9 @@
+title: Exposing Australia's Secret Human Torture in 2025
+description: This fact-based story is about human rights violations with modern torture techniques directed by a secret Australia state authority and the victim has video evidence of this illegal human torture & harassment for +3 years.
+
+remote_theme: pages-themes/slate@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+
+show_downloads: false 
+# google_analytics: [Your Google Analytics tracking ID]
